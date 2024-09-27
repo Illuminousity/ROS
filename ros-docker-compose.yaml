@@ -1,0 +1,12 @@
+services:
+
+  ros-box:
+    build:
+      context: ./
+      dockerfile: ROS.dockerfile
+    container_name: ros-box
+    tty: true
+    environment:
+      DISPLAY: host.docker.internal:0.0
+
+
