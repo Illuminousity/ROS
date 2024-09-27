@@ -8,6 +8,7 @@ A Series of Scripts utilizing the Docker Image and XLaunch (X11 Server) to Setup
 - Docker / Docker Desktop
 - Docker Account
 - XLaunch (winget provided)
+- WSL
 
 
 # User Manual
