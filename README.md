@@ -27,6 +27,6 @@ A Series of Scripts utilizing the Docker Image and XLaunch (X11 Server) to Setup
 
 # Remarks
 
-- You may need to run `start-xming.bat` everytime you restart your PC, this is because XLaunch doesn't start automatically on boot.
+- You may need to run `start-xming.bat` everytime you restart your PC, this is because XLaunch doesn't start automatically on boot. (You can set this to boot on launch)
 
 - Ensure the Docker Desktop / Docker Engine is started before attempting to run the `.bat` files, not starting Docker Desktop will lead to arbritrary error messages.
